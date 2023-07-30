@@ -12,11 +12,6 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript.
 ## Getting Started
 
 1. Clone the repository:
-
-bash
-git clone https://github.com/Tushar-Dewalkar/to-do-list-app.git
-
-
 2. Open the `index.html` file in your web browser to use the application.
 
 ## How to Use
